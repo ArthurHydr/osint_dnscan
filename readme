@@ -1,1 +1,10 @@
 Do not use... beta beta beta beta!
+
+
+Default config.json
+
+{
+    "virustotal":"XXXX",
+    "google_token": "XXXXX",
+    "google_cse": "XXXX"
+}
